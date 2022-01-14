@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/PC COMPUTER/AndroidStudioProjects/Bikes/app/src/main/res/drawable/background_basket.xml" value="0.290625" />
+        <entry key="..\:/Users/PC COMPUTER/AndroidStudioProjects/Bikes/app/src/main/res/layout/activity_main.xml" value="0.2564102564102564" />
+        <entry key="..\:/Users/PC COMPUTER/AndroidStudioProjects/Bikes/app/src/main/res/layout/actyvity_main1.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/PC COMPUTER/AndroidStudioProjects/Bikes/app/src/main/res/layout/fragment_articles_list.xml" value="0.2564814814814815" />
+        <entry key="..\:/Users/PC COMPUTER/AndroidStudioProjects/Bikes/app/src/main/res/layout/fragment_basket.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/PC COMPUTER/AndroidStudioProjects/Bikes/app/src/main/res/layout/fragment_basket_list.xml" value="0.24166666666666667" />
+        <entry key="..\:/Users/PC COMPUTER/AndroidStudioProjects/Bikes/app/src/main/res/layout/fragment_list.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/PC COMPUTER/AndroidStudioProjects/Bikes/app/src/main/res/layout/listitem_basket_bikes.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/PC COMPUTER/AndroidStudioProjects/Bikes/app/src/main/res/layout/listitem_list_bikes.xml" value="0.27447916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

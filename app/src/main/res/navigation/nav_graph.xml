@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/fragment_list">
+
+    <fragment
+        android:id="@+id/fragment_list"
+        android:name="com.example.bikes.fragment_list"
+        android:label="fragment_list"
+        tools:layout="@layout/fragment_list" >
+        <action
+            android:id="@+id/action_fragment_list_to_fragment_basket_list"
+            app:destination="@id/fragment_basket_list" />
+    </fragment>
+    <fragment
+        android:id="@+id/fragment_basket_list"
+        android:name="com.example.bikes.fragment_basket_list"
+        android:label="fragment_basket_list"
+        tools:layout="@layout/fragment_basket_list" >
+        <action
+            android:id="@+id/action_fragment_basket_list_to_fragment_list"
+            app:destination="@id/fragment_list" />
+    </fragment>
+</navigation>
